@@ -1,0 +1,26 @@
+{
+    "id": "362F0DAA",
+    "path": "~/stock_assess/pop/pop24/Nov model/m_24_2_reweighted/q_profile/plot_profile.R",
+    "project_path": "plot_profile.R",
+    "type": "r_source",
+    "hash": "914345252",
+    "contents": "",
+    "dirty": false,
+    "created": 1729545658706.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,73",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650920037,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650920037,
+    "read_only": false,
+    "read_only_alternatives": []
+}
